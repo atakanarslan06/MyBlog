@@ -66,7 +66,7 @@ namespace Blog.Data.Mappings
                 UserName = "admin@gmail.com",
                 NormalizedUserName = "ADMIN@GMAIL.COM",
                 Email = "admin@gmail.com",
-                NormalizedEmail = "SUPERADMIN@GMAIL.COM",
+                NormalizedEmail = "ADMIN@GMAIL.COM",
                 PhoneNumber = "+905061590809",
                 FirstName = "Göksu",
                 LastName = "Arslan",
